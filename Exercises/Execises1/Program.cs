@@ -5,4 +5,4 @@ string name = Console.ReadLine();
 Console.WriteLine("How old are you?");
 string answer = Console.ReadLine();
 int age = int.Parse(answer);
-Console.WriteLine($"OH, your name is {name} and your are {age} years old.");
+Console.WriteLine($"OH, Your name is {name} and your are {age} years old.");
