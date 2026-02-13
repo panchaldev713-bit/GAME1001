@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("======Score board======");
+Console.Write("Enter player count");
+string userEndter =Console.ReadLine();
